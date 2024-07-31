@@ -40,7 +40,7 @@ The model is trained on the preprocessed text data and corresponding emotion lab
 The model classifies text into eight emotion classes: 'anger', 'disgust', 'fear', 'joy', 'neutral', 'sadness', 'shame', 'surprise'.
 
 ## Information about Libraries
-## NeatText: Get the detail information [Click here](https://www.example.com](https://www.analyticsvidhya.com/blog/2021/10/cleaning-and-pre-processing-textual-data-with-neattext-library))
+## NeatText: Get the detail information : https://www.analyticsvidhya.com/blog/2021/10/cleaning-and-pre-processing-textual-data-with-neattext-library
 
 
 A Python library for cleaning and preprocessing text data. It provides functions for removing unwanted characters, handling emojis, and extracting information from text.
