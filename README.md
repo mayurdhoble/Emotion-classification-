@@ -1,12 +1,9 @@
-# Emotion Classification 
+# Text Based Emotion Classification System
 
-## Dataset:
+## Aim:
+The primary aim of an emotion classification project is to develop a system capable of accurately identifying and categorizing human emotions from various input modalities.
 
-Imported from Kaggle 
-
-Contains two columns: text and emotion
-
-## Libraries:
+## Libraries used:
 
 1) Pandas: For data manipulation and analysis.
 
@@ -15,6 +12,8 @@ Contains two columns: text and emotion
 3) NeatText: For text cleaning and preprocessing.
 
 4) Scikit-learn: For machine learning models, vectorization, and evaluation metrics.
+
+5) Streamlit : To create beautiful User Interfce.
 
 ## Preprocessing:
 
