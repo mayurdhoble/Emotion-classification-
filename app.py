@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Load the pre-trained model
-pipe_lr = joblib.load(r"C:\Users\dell\Downloads\emotion classification\emotion_classifier.pkl")
+pipe_lr = joblib.load(r"emotion_classifier1.pkl")
 
 # Define function to predict emotions
 def predict_emotion(text):
