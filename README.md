@@ -8,7 +8,7 @@ The primary aim of an emotion classification project is to develop a system capa
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Web Page</title>
+  <title></title>
 </head>
 <body>
   <h1>Welcome</h1>
