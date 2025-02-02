@@ -3,6 +3,10 @@
 ## Aim:
 The primary aim of an emotion classification project is to develop a system capable of accurately identifying and categorizing human emotions from various input modalities.
 
+
+<img src="path/to/image.png" alt="Alt text">
+
+
 ## Libraries used:
 
 1) Pandas: For data manipulation and analysis.
