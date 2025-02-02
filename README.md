@@ -4,7 +4,7 @@
 The primary aim of an emotion classification project is to develop a system capable of accurately identifying and categorizing human emotions from various input modalities.
 
 
-<img src="[(https://drive.google.com/file/d/10OBmlDIGTe_sp1UcwTvB3JVdrnSBm-pB/view?usp=drive_link)]" alt="Alt text">
+<img src="[https://drive.google.com/file/d/10OBmlDIGTe_sp1UcwTvB3JVdrnSBm-pB/view?usp=drive_link]" alt="Alt text">
 
 
 ## Libraries used:
