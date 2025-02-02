@@ -8,12 +8,11 @@ The primary aim of an emotion classification project is to develop a system capa
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>
 </head>
 <body>
   <h1>Welcome</h1>
   <p>Here's an image:</p>
-  <img src="https://drive.google.com/file/d/10OBmlDIGTe_sp1UcwTvB3JVdrnSBm-pB/view?usp=drive_link" alt="A picture of a project">
+  <img src="https://github.com/mayurdhoble/Emotion-classification-/blob/master/output_of_emotion_classifier.png?raw=true" alt="A picture of a project">
 </body>
 </html>
 
